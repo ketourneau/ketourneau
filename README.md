@@ -1,16 +1,15 @@
 ### Hi there 👋
+I'm Kévin and i'm 3D enginner with more then 7 years experience. I have been working in various fields, with a specialization in AR and VR experience.
 
-<!--
-**ketourneau/ketourneau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Expertise
+<img align="left" alt="unity3D" src="https://img.shields.io/badge/-unity3D-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img align="left" alt="node-js" src="https://img.shields.io/badge/-node_js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="left" alt="postgresql" src="https://img.shields.io/badge/-postgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img align="left" alt="js" src="https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+[<img src='https://img.shields.io/badge/-GitHub-181717?style=social&logo=github' alt='github'>](https://github.com/cederache)
+[<img src='https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin' alt='linkedin'>](https://www.linkedin.com/in/cédric-derache-1b5bb575/)
+[<img src='https://img.shields.io/badge/-Twitter-1DA1F2?style=social&logo=twitter' alt='twitter'>](https://twitter.com/cederache)
+[<img src='https://img.shields.io/badge/-WebSite-1DA1F2?style=social&logo=icloud' alt='website'>](https://cederache.github.io)
