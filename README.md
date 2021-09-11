@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Kévin and i'm 3D enginner with more then 7 years experience. I have been working in various fields, with a specialization in AR and VR experience.
+I'm Kévin and i'm 3D enginner with more then 6 years experience. I have been working in various fields, with a specialization in AR and VR experience.
 
 ## Expertise
 <img align="left" alt="unity3D" src="https://img.shields.io/badge/-unity3D-000000?style=for-the-badge&logo=unity&logoColor=white">
