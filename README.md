@@ -10,5 +10,5 @@ I'm Kévin and i'm 3D enginner with more then 6 years experience. I have been wo
 
 ## Connect with me
 [<img src='https://img.shields.io/badge/-GitHub-181717?style=social&logo=github' alt='github'>](https://github.com/ketourneau)
-[<img src='https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin' alt='linkedin'>](https://www.linkedin.com/in/cédric-derache-1b5bb575/)
+[<img src='https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin' alt='linkedin'>](https://fr.linkedin.com/in/k%C3%A9vin-etourneau-12b32749/)
 [<img src='https://img.shields.io/badge/-Twitter-1DA1F2?style=social&logo=twitter' alt='twitter'>](https://twitter.com/etourneaukevin)
