@@ -5,7 +5,7 @@ I'm Kévin and i'm 3D enginner with more then 10 years experience (engineering d
 <img align="left" alt="unity3D" src="https://img.shields.io/badge/-unity3D-000000?style=for-the-badge&logo=unity&logoColor=white">
 <img align="left" alt="node-js" src="https://img.shields.io/badge/-node_js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="left" alt="postgresql" src="https://img.shields.io/badge/-postgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="left" alt="ts" src="https://img.shields.io/badge/-TS-2d79c7?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="left" alt="ts" src="https://img.shields.io/badge/-TypeScript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="left" alt="threejs" src="https://img.shields.io/badge/-THREE.JS-FFFFFF?style=for-the-badge&logo=threedotjs&logoColor=black">
 <br>
 
